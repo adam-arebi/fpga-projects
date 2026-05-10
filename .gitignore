@@ -1,0 +1,28 @@
+# Simulation outputs
+*.vcd
+*.fst
+*.vvp
+*.lxt2
+
+# Synthesis & place-and-route outputs
+*.bin
+*.asc
+*.json
+*.blif
+*.rpt
+
+# Build directories
+build/
+out/
+
+# Editor files
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
