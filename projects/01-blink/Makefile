@@ -1,7 +1,7 @@
 # Project config — change these per project
-TOP = blink_1hz
+TOP = counter_leds
 PCF = icebreaker.pcf
-SRC = blink_1hz.sv
+SRC = counter_leds.sv
 
 # iCE40UP5K on iCEBreaker
 DEVICE = up5k
