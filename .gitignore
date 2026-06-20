@@ -26,3 +26,7 @@ out/
 __pycache__/
 *.pyc
 .venv/
+
+#notes and exercises to keep private:
+echo "notes/" >> .gitignore
+echo "exercises/" >> .gitignore
